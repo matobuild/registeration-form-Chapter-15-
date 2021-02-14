@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		48E9A1F725D8D33200CC1283 /* UserRegistrationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E9A1F625D8D33100CC1283 /* UserRegistrationViewModel.swift */; };
 		48F56FB425D4BBCD00913A2E /* registeration_form_Chapter_15_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F56FB325D4BBCD00913A2E /* registeration_form_Chapter_15_App.swift */; };
 		48F56FB625D4BBCD00913A2E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F56FB525D4BBCD00913A2E /* ContentView.swift */; };
 		48F56FB825D4BBCE00913A2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48F56FB725D4BBCE00913A2E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		48E9A1F625D8D33100CC1283 /* UserRegistrationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRegistrationViewModel.swift; sourceTree = "<group>"; };
 		48F56FB025D4BBCD00913A2E /* registeration form(Chapter 15).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "registeration form(Chapter 15).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		48F56FB325D4BBCD00913A2E /* registeration_form_Chapter_15_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = registeration_form_Chapter_15_App.swift; sourceTree = "<group>"; };
 		48F56FB525D4BBCD00913A2E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				48F56FB325D4BBCD00913A2E /* registeration_form_Chapter_15_App.swift */,
 				48F56FB525D4BBCD00913A2E /* ContentView.swift */,
+				48E9A1F625D8D33100CC1283 /* UserRegistrationViewModel.swift */,
 				48F56FB725D4BBCE00913A2E /* Assets.xcassets */,
 				48F56FBC25D4BBCE00913A2E /* Info.plist */,
 				48F56FB925D4BBCE00913A2E /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48E9A1F725D8D33200CC1283 /* UserRegistrationViewModel.swift in Sources */,
 				48F56FB625D4BBCD00913A2E /* ContentView.swift in Sources */,
 				48F56FB425D4BBCD00913A2E /* registeration_form_Chapter_15_App.swift in Sources */,
 			);
